@@ -13,6 +13,7 @@ subprojects {
     apply plugin: 'com.jfrog.bintray'
     apply plugin: 'com.commercehub.gradle.plugin.avro-base'
     apply plugin: 'maven-publish'
+    apply plugin: 'maven'
 
     // Configuration
     version = '0.2-alpha.1'
