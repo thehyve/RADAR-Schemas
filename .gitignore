@@ -6,5 +6,6 @@ out/
 .gradle/
 .gradletasknamecache
 gradle.properties
+out/
 exchange.properties
 *.class
